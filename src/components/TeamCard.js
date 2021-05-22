@@ -1,4 +1,5 @@
 import React from "react";
+import userImg from "./bolanebyla.jpg";
 import {
     Div,
     Card,
@@ -52,7 +53,7 @@ export default function TeamCard() {
                         disabled
                         multiline
                         before={<Avatar size={150}
-                                        src="https://sun4-15.userapi.com/s/v1/if1/-t08ZbXWujc3iJCHDjvSAvCueHWaTZo8l3IFdwLarbz0kVALei-eRXdKhyUl5HoMv5FexMYO.jpg?size=200x0&quality=96&crop=720,80,1022,1531&ava=1"/>}
+                                        src={userImg}/>}
                         text="Главный гений-кодинга в команде, определяет весь технический стек и архитектуру проектов,
                             которые реализует команда."
                         caption="Специализация: Fullstack-разработчик"
