@@ -1,5 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+
+import { AppRoot } from '@vkontakte/vkui';
+import '@vkontakte/vkui/dist/vkui.css';
+
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
