@@ -33,6 +33,12 @@ export default function TeamCard() {
                             (Гений фигмы, а еще ее невозможно выйграть в монополию)"
                             caption="Специализация: UI/UX-дизайн"
                             bottom="Возраст: 20"
+                            actions={
+                                <React.Fragment>
+                                    <Button target="_blank"
+                                            href="https://vk.com/im?media=&sel=330904782">Написать</Button>
+                                </React.Fragment>
+                            }
                         >
                             Сидоренко Анжелика Витальевна
                         </RichCell>
@@ -48,6 +54,12 @@ export default function TeamCard() {
                         (Чисто разнорабочий микрочелик и капитан по-совместительству)"
                             caption="Специализация: Backend-разработчик"
                             bottom="Возраст: 21"
+                            actions={
+                                <React.Fragment>
+                                    <Button target="_blank"
+                                            href="https://vk.com/im?media=&sel=128784852">Написать</Button>
+                                </React.Fragment>
+                            }
                         >
                             Ашимов Султан Сапарович
                         </RichCell>
@@ -63,6 +75,12 @@ export default function TeamCard() {
                             которые реализует команда."
                             caption="Специализация: Fullstack-разработчик"
                             bottom="Возраст: 21"
+                            actions={
+                                <React.Fragment>
+                                    <Button target="_blank"
+                                            href="https://vk.com/im?media=&sel=132677094">Написать</Button>
+                                </React.Fragment>
+                            }
                         >
                             Лесков Алексей Олегович
                         </RichCell>
@@ -77,6 +95,12 @@ export default function TeamCard() {
                             text="Тот самый человек, который шарит в математике и нейросетях."
                             caption="Специализация: DataScience"
                             bottom="Возраст: 21"
+                            actions={
+                                <React.Fragment>
+                                    <Button target="_blank"
+                                            href="https://vk.com/write484080919">Написать</Button>
+                                </React.Fragment>
+                            }
                         >
                             Черемных Руслан Максимович
                         </RichCell>
