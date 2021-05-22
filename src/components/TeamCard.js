@@ -20,7 +20,6 @@ export default function TeamCard() {
             <Panel id="main">
                 <PanelHeader>NaniB0ots</PanelHeader>
 
-
                 <Group header={<Header mode="primary" subtitle="ИБб <3">
                     Команда Иркутского политеха
                 </Header>}>
@@ -82,6 +81,7 @@ export default function TeamCard() {
                             Черемных Руслан Максимович
                         </RichCell>
                     </Group>
+
                 </Group>
             </Panel>
         </View>
