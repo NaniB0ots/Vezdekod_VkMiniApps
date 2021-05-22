@@ -16,7 +16,7 @@ export default function TeamCard() {
                             text="Занимается всем визуалом, проектированием пользовательских интерфейсов и сценариев.
                             (Гений фигмы, а еще ее невозможно выйграть в монополию)"
                             caption="Специализация: UI/UX-дизайн"
-                            maxHeight={500}
+                            maxHeight={400}
                         />
                         <ContentCard
                             image="https://sun4-10.userapi.com/s/v1/ig2/qCRLzOldNBEX8Hg_rRvM77W6k4GzeZFIlUVdvq2YdIVGllYdinlX6Vmy6ikmz0J7fnjBmLKGW5okw-uIu4kAjPb5.jpg?size=200x0&quality=96&crop=2,111,583,583&ava=1"
@@ -24,7 +24,25 @@ export default function TeamCard() {
                             header="Ашимов Султан Сапарович"
                             text="Помимо роли разработчика, выполняет функции менеджера команды. (Чисто разнорабочий микрочелик и капитан по-совместительству)"
                             caption="Специализация: Backend-разработчик"
-                            maxHeight={500}
+                            maxHeight={400}
+                        />
+
+                        <ContentCard
+                            image="https://sun4-15.userapi.com/s/v1/if1/-t08ZbXWujc3iJCHDjvSAvCueHWaTZo8l3IFdwLarbz0kVALei-eRXdKhyUl5HoMv5FexMYO.jpg?size=200x0&quality=96&crop=720,80,1022,1531&ava=1"
+                            subtitle="Возраст: 21"
+                            header="Лесков Алексей Олегович"
+                            text="Главный гений-кодинга в команде, определяет весь технический стек и архитектуру проктов, которые реализует команда."
+                            caption="Специализация: Fullstack-разработчик"
+                            maxHeight={400}
+                        />
+
+                        <ContentCard
+                            image="https://newsland.com/static/u/article_image/17/07/31/tmpYfbaIF.jpeg"
+                            subtitle="Возраст: 21"
+                            header="Черемных Руслан Максимович"
+                            text="Тот самый человек, который шарит в математике и нейросетях."
+                            caption="Специализация: DataScience"
+                            maxHeight={400}
                         />
 
                     </CardGrid>
