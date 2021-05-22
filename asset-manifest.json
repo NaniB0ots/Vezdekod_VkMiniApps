@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/Vezdekod_VkMiniApps/static/css/main.2ae47eeb.chunk.css",
-    "main.js": "/Vezdekod_VkMiniApps/static/js/main.a41bcddb.chunk.js",
-    "main.js.map": "/Vezdekod_VkMiniApps/static/js/main.a41bcddb.chunk.js.map",
-    "runtime-main.js": "/Vezdekod_VkMiniApps/static/js/runtime-main.143a270c.js",
-    "runtime-main.js.map": "/Vezdekod_VkMiniApps/static/js/runtime-main.143a270c.js.map",
+    "main.js": "/Vezdekod_VkMiniApps/static/js/main.2d65da5a.chunk.js",
+    "main.js.map": "/Vezdekod_VkMiniApps/static/js/main.2d65da5a.chunk.js.map",
+    "runtime-main.js": "/Vezdekod_VkMiniApps/static/js/runtime-main.fdc873e5.js",
+    "runtime-main.js.map": "/Vezdekod_VkMiniApps/static/js/runtime-main.fdc873e5.js.map",
     "static/css/2.3ca3203c.chunk.css": "/Vezdekod_VkMiniApps/static/css/2.3ca3203c.chunk.css",
-    "static/js/2.7806dd7e.chunk.js": "/Vezdekod_VkMiniApps/static/js/2.7806dd7e.chunk.js",
-    "static/js/2.7806dd7e.chunk.js.map": "/Vezdekod_VkMiniApps/static/js/2.7806dd7e.chunk.js.map",
-    "static/js/3.e24fdb9e.chunk.js": "/Vezdekod_VkMiniApps/static/js/3.e24fdb9e.chunk.js",
-    "static/js/3.e24fdb9e.chunk.js.map": "/Vezdekod_VkMiniApps/static/js/3.e24fdb9e.chunk.js.map",
+    "static/js/2.bf6e1f38.chunk.js": "/Vezdekod_VkMiniApps/static/js/2.bf6e1f38.chunk.js",
+    "static/js/2.bf6e1f38.chunk.js.map": "/Vezdekod_VkMiniApps/static/js/2.bf6e1f38.chunk.js.map",
+    "static/js/3.559e8e40.chunk.js": "/Vezdekod_VkMiniApps/static/js/3.559e8e40.chunk.js",
+    "static/js/3.559e8e40.chunk.js.map": "/Vezdekod_VkMiniApps/static/js/3.559e8e40.chunk.js.map",
     "index.html": "/Vezdekod_VkMiniApps/index.html",
     "static/css/2.3ca3203c.chunk.css.map": "/Vezdekod_VkMiniApps/static/css/2.3ca3203c.chunk.css.map",
     "static/css/main.2ae47eeb.chunk.css.map": "/Vezdekod_VkMiniApps/static/css/main.2ae47eeb.chunk.css.map",
-    "static/js/2.7806dd7e.chunk.js.LICENSE.txt": "/Vezdekod_VkMiniApps/static/js/2.7806dd7e.chunk.js.LICENSE.txt",
+    "static/js/2.bf6e1f38.chunk.js.LICENSE.txt": "/Vezdekod_VkMiniApps/static/js/2.bf6e1f38.chunk.js.LICENSE.txt",
     "static/media/bolanebyla.635d2f69.jpg": "/Vezdekod_VkMiniApps/static/media/bolanebyla.635d2f69.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.143a270c.js",
+    "static/js/runtime-main.fdc873e5.js",
     "static/css/2.3ca3203c.chunk.css",
-    "static/js/2.7806dd7e.chunk.js",
+    "static/js/2.bf6e1f38.chunk.js",
     "static/css/main.2ae47eeb.chunk.css",
-    "static/js/main.a41bcddb.chunk.js"
+    "static/js/main.2d65da5a.chunk.js"
   ]
 }
