@@ -1,25 +1,30 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import TeamCard from "./components/TeamCard";
+import {
+    AppRoot,
+    SplitLayout,
+    SplitCol,
+    ViewWidth,
+    PanelHeader,
+    useAdaptivity, ConfigProvider, AdaptivityProvider,
+} from "@vkontakte/vkui";
+import "@vkontakte/vkui/dist/vkui.css";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    const {viewWidth} = useAdaptivity();
+    return (
+        <ConfigProvider>
+            <AdaptivityProvider>
+                <AppRoot>
+                    <SplitLayout header={<PanelHeader separator={false}/>}>
+                        <SplitCol spaced={viewWidth > ViewWidth.MOBILE}>
+                            <TeamCard/>
+                        </SplitCol>
+                    </SplitLayout>
+                </AppRoot>
+            </AdaptivityProvider>
+        </ConfigProvider>
+    )
 }
 
 export default App;
