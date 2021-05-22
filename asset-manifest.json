@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Vezdekod_VkMiniApps/static/css/main.2ae47eeb.chunk.css",
-    "main.js": "/Vezdekod_VkMiniApps/static/js/main.beafb451.chunk.js",
-    "main.js.map": "/Vezdekod_VkMiniApps/static/js/main.beafb451.chunk.js.map",
+    "main.js": "/Vezdekod_VkMiniApps/static/js/main.a41bcddb.chunk.js",
+    "main.js.map": "/Vezdekod_VkMiniApps/static/js/main.a41bcddb.chunk.js.map",
     "runtime-main.js": "/Vezdekod_VkMiniApps/static/js/runtime-main.143a270c.js",
     "runtime-main.js.map": "/Vezdekod_VkMiniApps/static/js/runtime-main.143a270c.js.map",
     "static/css/2.3ca3203c.chunk.css": "/Vezdekod_VkMiniApps/static/css/2.3ca3203c.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.3ca3203c.chunk.css",
     "static/js/2.7806dd7e.chunk.js",
     "static/css/main.2ae47eeb.chunk.css",
-    "static/js/main.beafb451.chunk.js"
+    "static/js/main.a41bcddb.chunk.js"
   ]
 }
